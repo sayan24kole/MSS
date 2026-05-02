@@ -1,2 +1,43 @@
 # MSS
-MSS is a high level programming language having syntax similar to python/java. This language/compiler converts high level MSS language to low level NASM x86_64 assembly language.
+MSS has a syntax similar to python and java.
+
+<h1><u></u>USER GUIDE:-</h1></u></h1>
+
+Read the below syntax to get an idea of the language.
+
+<h3>Important point:- 
+<br><br>  
+*) Right after declaring file it is necessary to name all the variables that is to be used<br>
+  
+*) op is needed for performing any operation
+
+*) "?" here is the way in which comment can be left out in the code snippet
+<br><br>
+
+General syntax:-
+
+file Your_file_name  ?Here specify your file name that you will save it as
+
+create int a int b int c ?Right after file name it is needed to initialize variable
+
+int a = 10  ?set value of a to 10
+
+int b = 20 ? set value of b to 20
+
+
+OR
+
+
+string a = input() ?to take user input in string
+
+int b = input() ?to take user input in integer
+
+
+op int c = b+a ? to perform any operation we need to specify op at the begining
+
+print ("Sum :", c)       ? we need to seperate variables by a comma
+
+println ("Sum :", c)     ? Right after print/println we need to give a space
+
+print ("Exit")           ? There is print for same line and println for \n function
+</h3>
