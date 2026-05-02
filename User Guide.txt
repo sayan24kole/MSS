@@ -1,0 +1,28 @@
+USER GUIDE:-
+
+Read the below syntax to get an idea of the language.
+
+Important point:- 
+*) Right after declaring file it is necessary to name all the variables that is to be used
+*) op is needed for performing any operation
+*) "?" here is the way in which comment can be left out in the code snippet
+
+General syntax:-
+
+file Your_file_name  ?Here specify your file name that you will save it as
+
+create int a int b int c ?Right after file name it is needed to initialize variable
+
+int a = 10  ?set value of a to 10
+int b = 20 ? set value of b to 20
+
+OR
+
+string a = input() ?to take user input in string
+int b = input() ?to take user input in integer
+
+op int c = b+a ? to perform any operation we need to specify op at the begining
+
+print ("Sum :", c)       ? we need to seperate variables by a comma
+println ("Sum :", c)     ? Right after print/println we need to give a space
+print ("Exit")           ? There is print for same line and println for \n function
