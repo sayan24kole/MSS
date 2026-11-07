@@ -36,3 +36,14 @@ int counter = 1
 }*
 
 println("Done!")
+
+? Output:-
+? 15 + 5 = 20
+? 15 / 5 = 3
+? Welcome, User
+? Enter a secret number:
+? Lucky number 7!
+? Loop count: 1
+? Loop count: 2
+? Loop count: 3
+? Program finished!
